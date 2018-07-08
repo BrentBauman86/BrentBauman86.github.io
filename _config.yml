@@ -1,10 +1,10 @@
 # Site settings
-title: Must.  Learn.  Computer.  
+title: Must.  Learn.  Computer.
 header-img: img/home-bg.png
 email: brentbauman86@gmail.com
 copyright_name: BrentBauman86
 description: > # this means to ignore newlines until "baseurl:"
-  Remember to smile...this is tough
+  Destroying comfort in my quest to be proud of what I do
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BrentBauman86
