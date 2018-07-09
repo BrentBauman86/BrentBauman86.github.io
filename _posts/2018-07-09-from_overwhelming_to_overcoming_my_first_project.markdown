@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " From overwhelming to overcoming my first project"
-date:       2018-07-09 16:02:59 +0000
+date:       2018-07-09 12:02:59 -0400
 permalink:  from_overwhelming_to_overcoming_my_first_project
 ---
 
