@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      " From overwhelming to overcoming my first project"
+title:      "From overwhelming to overcoming my first project"
 date:       2018-07-09 12:02:59 -0400
 permalink:  from_overwhelming_to_overcoming_my_first_project
 ---
 
 
-   I finally made it through my first project and it feels amazinggggg!  Not to say that it didn't come at a price, I experienced just about every emotion possible while figting my way through this project, ranging from high levels of frustration and inadequacy, to laughter and pride.  Finding the humor in code is something I keep reminding myself to do when I get stuck with a problem, the best part about making issues humorus is that it makes being angry impossible.  
+   I finally made it through my first project and it feels amazinggggg!  Not to say that it didn't come at a price, I experienced just about every emotion possible while figting my way through this project, ranging from high levels of frustration and inadequacy, to laughter and pride.  Finding the humor in code is something I keep reminding myself to do when I get stuck with a problem, the best part about making issues humorus is that it makes being angry impossible.
    
    Setting up the project
 	    
