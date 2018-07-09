@@ -16,7 +16,7 @@ permalink:  from_overwhelming_to_overcoming_my_first_project
 	    
   Figuring out where to put all of my code was probably the most challenging part of this project for me, just making sure everything was in the right place and being accessed properly has always been tough for me.  It took a while to figure out how to initiate and access my scraped data (like I said, tying all the information together is not my strong suite) but once I got that working things started to fall into place.  I also spent a lot of time playing around with how my data was displayed and what I wanted the user to see.  I thought it would be a good idea to add some regex to make my displayed data more appealing but wow oh wow do I hate regex's...there is just so many different ways to use them so I only infused a couple in my code.  
 
-   Here is a quick breakdown of my workflow:
+   Here is a quick breakdown of my workflow.
     - First I decided to build my scraper class and gather all my data.
 	  - Then I built out my brew class which creates all of my new brews.
 	  - Lastly I finished with the CLI class and made all of my information nice and neat for the user to play with.
