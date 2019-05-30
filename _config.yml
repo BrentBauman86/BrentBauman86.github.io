@@ -1,15 +1,14 @@
 # Site settings
+author: Brent Bauman
 title: Must.  Learn.  Computer.
 header-img: img/home-bg.png
 email: brentbauman86@gmail.com
-copyright_name: BrentBauman86
+copyright_name: Brent Bauman
 description: > # this means to ignore newlines until "baseurl:"
-  Destroying comfort in my quest to be proud of what I do
+  Destroying comfort in my quest for a new beginning 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BrentBauman86
-learn_profile: BrentBauman86
-email_username: brentbauman86@gmail.com
 
 # Build settings
 markdown: kramdown
