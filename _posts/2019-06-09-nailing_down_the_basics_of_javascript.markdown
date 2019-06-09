@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Nailing down the basics of JavaScript"
-date:       2019-06-09 18:27:01 +0000
+date:       2019-06-09 14:27:02 -0400
 permalink:  nailing_down_the_basics_of_javascript
 ---
 
